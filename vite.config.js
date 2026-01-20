@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "https://martsenuik.github.io/HW7-react/"
 })
